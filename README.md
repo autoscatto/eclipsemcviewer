@@ -1,4 +1,4 @@
-eclipsemcviewer
+![Logo](https://raw.github.com/autoscatto/eclipsemcviewer/master/EclipseMCViewer/src/main/ic_launcher-web.png "Logo") EclipseMC Viewer
 ===============
 
 idiot webview for Eclipse Mining Consortium mobile interface
