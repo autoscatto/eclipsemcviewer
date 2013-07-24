@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EclipseMC Viewer</string>
+    <string name="action_settings">Set API Key</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="exit">Exit</string>
+
+    <string name="dtitle">Set API Key</string>
+    <string name="dmsg">Please insert your API key.</string>
+</resources>
